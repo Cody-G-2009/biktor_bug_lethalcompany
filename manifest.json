@@ -1,0 +1,11 @@
+{
+    "name": "biktor_bug",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Cody-G-2009/biktor_bug_lethalcompany",
+    "description": "Replaces Hoarder Bug audio with BIKTOR.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "Clementinise-CustomSounds-1.2.3",
+		"no00ob-LCSoundTool-1.2.2"
+    ]
+}
